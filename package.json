@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaginSoft/MFileChooser.git"
+    "url": "git+https://github.com/bendspoons/MFileChooser"
   },
   "keywords": [
     "ecosystem:cordova",
