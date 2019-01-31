@@ -1,0 +1,31 @@
+{
+  "name": "com.maginsoft.mfilechooser",
+  "version": "1.0.0",
+  "description": "Maginsoft FileChooser",
+  "cordova": {
+    "id": "com.maginsoft.mfilechooser",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaginSoft/MFileChooser.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": "Maginsoft",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
